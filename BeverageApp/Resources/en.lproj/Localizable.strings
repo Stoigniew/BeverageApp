@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  BeverageApp
+
+  Created by Maciej Adamczyk on 14/03/2023.
+  
+*/
+// Drink ingredients view
+"Ingredients view title" = "Drinks ingredients";
+"SearchBar placeholder" = "Enter cocktail ingredient";
+
+// Drinks collection view
+"Drinks view title" = "Drinks Bar";
+
+// Drink details view
+"Drink details view title" = "Drink details";
